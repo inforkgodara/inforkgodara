@@ -8,11 +8,11 @@ communicate effectively with a team and very keen to develop more professional s
 
 ## I am self taught developer and software engineer!!
 
-- 🔭 I recently launched my blog: [Blog][website]!
-- 🌱 I am currently learning data science 🤣
-- 👯 I am looking to collaborate with other software developers.
-- 🥅 Goal to become a successful full stack developer.
-- ⚡ I love to mess with valurable websites.
+* I recently launched my blog: [Blog][website]!
+* I am currently learning data science 🤣
+* I am looking to collaborate with other software developers.
+* Goal to become a successful full stack developer.
+* I love to mess with valurable websites.
 
 ### Professional Skills
 
