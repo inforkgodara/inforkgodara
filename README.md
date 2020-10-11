@@ -14,8 +14,6 @@ communicate effectively with a team and very keen to develop more professional s
 - 🥅 Goal to become a successful full stack developer.
 - ⚡ I love to mess with valurable websites.
 
-<br />
-
 ### Professional Skills
 
 * Programming language (C, C++, Java)
@@ -29,8 +27,6 @@ communicate effectively with a team and very keen to develop more professional s
 * English
 * Hindi
 * French
-
-<br />
 
 ### Connect with me:
 
