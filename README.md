@@ -17,7 +17,6 @@
 [<img align="left" alt="inforkgodara | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="inforkgodara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="inforkgodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="inforkgodara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -47,4 +46,4 @@
 [website]: https://inforkgodara.blogspot.com/
 [twitter]: https://twitter.com/inforkgodara
 [youtube]: https://www.youtube.com/channel/UCwbUu9rclzJYr_2sPTG5X0A
-[linkedin]: LinkedIn - http://www.linkedin.com/in/inforkgodara
+[linkedin]: http://www.linkedin.com/in/inforkgodara
