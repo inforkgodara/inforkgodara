@@ -33,12 +33,11 @@ communicate effectively with a team and very keen to develop more professional s
 [<img align="left" alt="inforkgodara.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="inforkgodara | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="inforkgodara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="inforkgodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="inforkgodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
 
 [website]: https://inforkgodara.blogspot.com/
 [twitter]: https://twitter.com/inforkgodara
 [youtube]: https://www.youtube.com/channel/UCwbUu9rclzJYr_2sPTG5X0A
 [linkedin]: http://www.linkedin.com/in/inforkgodara
 
-</b>
 ## Let's get connected
