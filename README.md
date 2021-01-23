@@ -6,7 +6,7 @@ A motivation Software Engineer with 3+ years of experience and contributed many 
 industry e-commerce, business, hotels & restaurants, and medical. Substantial knowledge of handling clients. Able to
 communicate effectively with a team and very keen to develop more professional skills.
 
-## I am self taught developer and software engineer!!
+## I am an engineer product!!
 
 * I recently launched my blog: [Blog][website]!
 * I am currently learning data science
