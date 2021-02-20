@@ -6,11 +6,11 @@ A motivation Software Engineer with 3+ years of experience and contributed many 
 
 ## I am an engineer product!!
 
-* I recently launched my blog: [Blog][website]!
-* I am currently learning data science
-* I am looking to collaborate with other software developers
-* I love to mess with valurable websites
-* I set a goal to become a good problem solver
+* Recently launched my blog: [Blog][website]!
+* Currently learning data science
+* Looking to collaborate with other software developers
+* Love to mess with valurable websites
+* Goal to become a good problem solver
 
 ### Professional Skills
 
