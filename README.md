@@ -19,6 +19,7 @@ A motivation Software Engineer with 3+ years of experience and contributed many 
 * JavaScript framework (Vue Js , Angular Js)
 * Front End (Html, CSS, JavaScript)
 * Php framework (Laravel, CakePhp)
+* BI Tool (PowerBi, Tableau)
 
 ### Known Languages
 
