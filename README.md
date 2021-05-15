@@ -34,7 +34,7 @@ A motivation Software Engineer with 3+ years of experience and contributed many 
 [<img align="left" alt="inforkgodara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="inforkgodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+</br>
 ![Visitor Count](https://profile-counter.glitch.me/{inforkgodara}/count.svg)
 
 [website]: https://inforkgodara.blogspot.com/
