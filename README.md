@@ -9,7 +9,7 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 * Recently launched my blog: [Blog][website]!
 * Currently learning cyber security
 * Looking to collaborate with other software developers
-* Love to mess with valurable websites
+* Love to mess with vulnerable websites
 * Goal to become a good problem solver
 
 ### Professional Skills
