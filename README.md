@@ -14,12 +14,13 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 
 ### Professional Skills
 
-* Programming language (C, C++, Java)
+* Programming language (C, C++, Java, Python)
 * Database (MySql, Sql, Redis) 
 * JavaScript framework (Vue Js , Angular Js)
 * Front End (Html, CSS, JavaScript)
 * Php framework (Laravel, CakePhp)
 * BI Tool (PowerBi, Tableau)
+* Cyber Security
 
 ### Known Languages
 
