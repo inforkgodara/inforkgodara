@@ -20,7 +20,7 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 * Front End (Html, CSS, JavaScript)
 * Php framework (Laravel, CakePhp)
 * BI Tool (PowerBi, Tableau)
-* Cyber Security
+* Cyber Security (white hat)
 
 ### Known Languages
 
