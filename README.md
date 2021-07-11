@@ -6,7 +6,7 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 
 ## I am an engineer product!!
 
-* Recently launched my blog: [Blog][website]!
+* Sometime I write at [Blog][website]!
 * Currently learning cyber security
 * Looking to collaborate with other software developers
 * Love to mess with vulnerable systems
