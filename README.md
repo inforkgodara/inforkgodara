@@ -6,6 +6,7 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 
 ## I am an engineer product!!
 
+* Web Developer, Desktop Application Developer and DBA
 * Currently learning cyber security
 * Looking to collaborate with other software developers
 * Love to mess with vulnerable systems
