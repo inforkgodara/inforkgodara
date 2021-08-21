@@ -11,7 +11,7 @@ A motivation Software Engineer with 4+ years of experience and contributed many 
 * Looking to collaborate with other software developers
 * Love to mess with vulnerable systems
 * Goal to become a good problem solver
-* Sometime I write at [Blog][website]!
+* Sometime I write on problem based solution at [Blog][website]!
 
 ### Professional Skills
 
