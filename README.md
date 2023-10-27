@@ -13,6 +13,8 @@ A motivation Software and Cyber Security Engineer with 4+ years of experience an
 * Goal to become a good problem solver
 * Sometime I write on problem based solution at [Blog][website]!
 
+## Contact me Telegram: [telegram]
+
 ### Professional Skills
 
 * Programming language (C, C++, Java, Python)
@@ -42,3 +44,4 @@ A motivation Software and Cyber Security Engineer with 4+ years of experience an
 [twitter]: https://twitter.com/inforkgodara
 [youtube]: https://www.youtube.com/channel/UCwbUu9rclzJYr_2sPTG5X0A
 [linkedin]: http://www.linkedin.com/in/inforkgodara
+[telegram]: https://t.me/inforkgodara
