@@ -7,7 +7,7 @@ A motivation Software and Cyber Security Engineer with 4+ years of experience an
 ## I am an engineer product!!
 
 * Web Developer, Desktop Application Developer and DBA
-* Currently learning cyber security
+* Currently working professional.
 * Looking to collaborate with other software developers
 * Love to mess with vulnerable systems
 * Goal to become a good problem solver
